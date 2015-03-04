@@ -1,0 +1,7 @@
+C:\Users\alexa_000\documents\visual studio 2013\Projects\JeuDames\TestJeuDames\bin\Debug\TestJeuDames.dll
+C:\Users\alexa_000\documents\visual studio 2013\Projects\JeuDames\TestJeuDames\bin\Debug\TestJeuDames.pdb
+C:\Users\alexa_000\documents\visual studio 2013\Projects\JeuDames\TestJeuDames\bin\Debug\JeuDames.exe
+C:\Users\alexa_000\documents\visual studio 2013\Projects\JeuDames\TestJeuDames\bin\Debug\JeuDames.pdb
+C:\Users\alexa_000\documents\visual studio 2013\Projects\JeuDames\TestJeuDames\obj\Debug\TestJeuDames.csprojResolveAssemblyReference.cache
+C:\Users\alexa_000\documents\visual studio 2013\Projects\JeuDames\TestJeuDames\obj\Debug\TestJeuDames.dll
+C:\Users\alexa_000\documents\visual studio 2013\Projects\JeuDames\TestJeuDames\obj\Debug\TestJeuDames.pdb

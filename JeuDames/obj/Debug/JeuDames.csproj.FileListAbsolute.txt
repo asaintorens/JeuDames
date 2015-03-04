@@ -1,0 +1,5 @@
+C:\Users\alexa_000\documents\visual studio 2013\Projects\JeuDames\JeuDames\bin\Debug\JeuDames.exe.config
+C:\Users\alexa_000\documents\visual studio 2013\Projects\JeuDames\JeuDames\bin\Debug\JeuDames.exe
+C:\Users\alexa_000\documents\visual studio 2013\Projects\JeuDames\JeuDames\bin\Debug\JeuDames.pdb
+C:\Users\alexa_000\documents\visual studio 2013\Projects\JeuDames\JeuDames\obj\Debug\JeuDames.exe
+C:\Users\alexa_000\documents\visual studio 2013\Projects\JeuDames\JeuDames\obj\Debug\JeuDames.pdb
